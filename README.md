@@ -1,3 +1,3 @@
 This program help you found discriminan
-!(https://github.com/howcapone/the-program-for-the-discriminan/assets/157037719/066df4fa-8f31-4b57-b212-01917eaecf4a)
+<a href="https://radikal.host/i/cmLnG8"><img src="https://e.radikal.host/2024/01/18/SNIMOK1.png" alt="SNIMOK1.png" border="0"></a>
 
