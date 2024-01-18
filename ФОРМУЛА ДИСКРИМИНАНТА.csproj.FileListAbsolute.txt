@@ -1,0 +1,7 @@
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\bin\Debug\ФОРМУЛА ДИСКРИМИНАНТА.exe.config
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\bin\Debug\ФОРМУЛА ДИСКРИМИНАНТА.exe
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\bin\Debug\ФОРМУЛА ДИСКРИМИНАНТА.pdb
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\obj\Debug\ФОРМУЛА ДИСКРИМИНАНТА.csproj.AssemblyReference.cache
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\obj\Debug\ФОРМУЛА ДИСКРИМИНАНТА.csproj.CoreCompileInputs.cache
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\obj\Debug\ФОРМУЛА ДИСКРИМИНАНТА.exe
+D:\3K SUBS GTA by Pillbox Hill\ФОРМУЛА ДИСКРИМИНАНТА\ФОРМУЛА ДИСКРИМИНАНТА\obj\Debug\ФОРМУЛА ДИСКРИМИНАНТА.pdb
